@@ -26,7 +26,6 @@ Typical operations include:
 
 ## Installation
 
-### Option A: Install from the source tarball (recommended for your GitHub release)
 Download `org.Rtemporaria.eg.db_1.0.tar.gz` and install locally:
 
 ```r
